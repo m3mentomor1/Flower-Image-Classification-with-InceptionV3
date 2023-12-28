@@ -20,9 +20,9 @@ Source: https://www.kaggle.com/datasets/marquis03/flower-classification/data
 ----------------------
 
 ### Dependencies: 
-- OpenCV (Type following command to install: pip install opencv-python)
-- Keras (Type following command to install: pip install keras)
-- NumPy (Type following command to install: pip install numpy)
+- OpenCV (Type following command to install: **pip install opencv-python**)
+- Keras (Type following command to install: **pip install keras**)
+- NumPy (Type following command to install: **pip install numpy**)
 - Pandas
 - Matplotlib
 - Seaborn
