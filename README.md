@@ -9,6 +9,7 @@ Dataset Used:
 ##### Flower Classification (https://www.kaggle.com/datasets/marquis03/flower-classification/data)
 - This dataset contains images of 14 distinct flower types: carnation, iris, bluebells, golden English, roses, fallen nephews, tulips, marigolds, dandelions, chrysanthemums, black-eyed daisies, water lilies, sunflowers, and daisies. It includes 13,618 training images and 98 validation images, with a total size of 202MB.
 
+----------------------
 
 Architecture Used: 
 ##### InceptionV3
