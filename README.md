@@ -17,5 +17,8 @@ Source: https://www.kaggle.com/datasets/marquis03/flower-classification/data
 #### InceptionV3
 - a convolutional neural network (CNN) architecture developed by Google as part of the GoogLeNet project, it represents the third edition of Google's Inception Convolutional Neural Network introduced during the ImageNet Recognition Challenge. It has 48 layers & has been pre-trained on the ImageNet dataset, containing millions of labeled images spanning thousands of classes. Additionally, it is well-known for its application in computer vision projects.
 
+----------------------
 
-
+### Dependencies: 
+- OpenCV (install by typing the following command: pip install opencv-python)
+- Keras (install by typing the following command: pip install keras)
