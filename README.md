@@ -3,14 +3,12 @@
 ### Overview:
 This repository contains a deep learning project for flower image classification using the InceptionV3 CNN architecture. The project leverages transfer learning on the InceptionV3 pre-trained model, fine-tuning it on a specific dataset of flower images.
 
-
 ----------------------
 
-
 Dataset Used: 
-##### Flower Classification (https://www.kaggle.com/datasets/marquis03/flower-classification/data)
+##### Flower Classification
 - This dataset contains images of 14 distinct flower types: carnation, iris, bluebells, golden English, roses, fallen nephews, tulips, marigolds, dandelions, chrysanthemums, black-eyed daisies, water lilies, sunflowers, and daisies. It includes 13,618 training images and 98 validation images, with a total size of 202MB.
-
+Source: https://www.kaggle.com/datasets/marquis03/flower-classification/data
 ----------------------
 
 Architecture Used: 
