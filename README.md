@@ -15,10 +15,17 @@ Source: https://www.kaggle.com/datasets/marquis03/flower-classification/data
 
 ### Architecture Used: 
 #### InceptionV3
-- a convolutional neural network (CNN) architecture developed by Google as part of the GoogLeNet project, it represents the third edition of Google's Inception Convolutional Neural Network introduced during the ImageNet Recognition Challenge. It has 48 layers & has been pre-trained on the ImageNet dataset, containing millions of labeled images spanning thousands of classes. Additionally, it is well-known for its application in computer vision projects.
+- A convolutional neural network (CNN) architecture developed by Google as part of the GoogLeNet project, it represents the third edition of Google's Inception Convolutional Neural Network introduced during the ImageNet Recognition Challenge. It has 48 layers & has been pre-trained on the ImageNet dataset, containing millions of labeled images spanning thousands of classes. Additionally, it is well-known for its application in computer vision projects.
 
 ----------------------
 
 ### Dependencies: 
-- OpenCV (install by typing the following command: pip install opencv-python)
-- Keras (install by typing the following command: pip install keras)
+- OpenCV (Type following command to install: pip install opencv-python)
+- Keras (Type following command to install: pip install keras)
+- NumPy (Type following command to install: pip install numpy)
+- Pandas
+- Matplotlib
+- Seaborn
+- TensorFlow
+- scikit-learn
+- Pillow
