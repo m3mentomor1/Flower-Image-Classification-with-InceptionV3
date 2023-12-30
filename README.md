@@ -22,12 +22,12 @@ Download Weights File Here: https://storage.googleapis.com/tensorflow/keras-appl
 ----------------------
 
 ### Dependencies: 
-- **OpenCV** (Type the command to install: *pip install opencv-python*)
-- **Keras** (Type the command to install: *pip install keras*)
-- **NumPy** (Type the command to install: *pip install numpy*)
+- **OpenCV** 
+- **Keras** 
+- **NumPy** 
 - **Pandas**
 - **Matplotlib**
 - **Seaborn**
 - **TensorFlow**
-- **scikit-learn** (Type the command to install: *pip install scikit-learn*)
+- **scikit-learn** 
 - **Pillow**
