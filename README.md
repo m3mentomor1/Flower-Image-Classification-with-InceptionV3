@@ -22,11 +22,11 @@ Download Weights File Here: https://storage.googleapis.com/tensorflow/keras-appl
 ----------------------
 
 ### Dependencies: 
-- **OpenCV** 
-- **Keras** 
-- **NumPy** 
-- **Pandas**
-- **Matplotlib**
+- **OpenCV** - an open-source computer vision library known for its use in image processing and computer vision projects.
+- **Keras** - a high-level neural networks API written in Python, capable of running on top of TensorFlow. This library is utilized for building and training deep learning models.
+- **NumPy** - a library for scientific computing with Python.
+- **Pandas** - a data analysis library that provides data structures like DataFrames for efficient data handling. 
+- **Matplotlib** - a comprehensive library for creating static, interactive, and animated plots in Python, facilitating data visualization tasks.
 - **Seaborn**
 - **TensorFlow**
 - **scikit-learn** 
