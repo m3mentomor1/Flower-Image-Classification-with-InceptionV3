@@ -6,5 +6,6 @@ matplotlib
 seaborn
 tensorflow
 scikit-learn
-Pillow	
+Pillow
 streamlit
+gdown
