@@ -14,6 +14,12 @@ Source: https://www.kaggle.com/datasets/marquis03/flower-classification/data
 ----------------------
 
 ### Architecture Used: 
+#### Convolutional Neural Network (CNN)
+- 
+
+----------------------
+
+### Base Model: 
 #### Inception v3
 - A convolutional neural network (CNN) architecture developed by Google as part of the GoogLeNet project, it represents the third edition of Google's Inception Convolutional Neural Network introduced during the ImageNet Recognition Challenge. It has 48 layers & has been pre-trained on the ImageNet dataset, containing millions of labeled images spanning thousands of classes. Additionally, it is well-known for its application in computer vision projects.
 
