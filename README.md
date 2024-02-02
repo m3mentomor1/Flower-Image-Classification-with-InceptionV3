@@ -1,15 +1,33 @@
 # Flower-Image-Classification-with-InceptionV3
 
-### Overview:
+### 🧐 I. Overview
 This repository contains a deep learning project for flower image classification using the InceptionV3 CNN architecture. The project leverages transfer learning on the InceptionV3 pre-trained model, fine-tuning it on a specific dataset of flower images.
 
 ----------------------
 
-### Dataset Used: 
+### 🗂️ II. Dataset
 #### Flower Classification
 - This dataset contains images of 14 distinct flower types: carnation, iris, bluebells, golden English, roses, fallen nephews, tulips, marigolds, dandelions, chrysanthemums, black-eyed daisies, water lilies, sunflowers, and daisies. It includes 13,618 training images and 98 validation images, with a total size of 202MB.
 
-Source: https://www.kaggle.com/datasets/marquis03/flower-classification/data
+**Download Dataset Here:** https://www.kaggle.com/datasets/marquis03/flower-classification/data
+
+----------------------
+
+### 🧑🏻‍💻 III. Learning Approach Used
+#### Supervised Learning
+- a type of learning in machine learning that involves training an algorithm on labeled data, where input samples are paired with corresponding output labels. The objective is to learn a mapping from input data to correct output labels by adjusting internal parameters during training, minimizing the difference between predicted outputs and true labels.
+##
+**Why Supervised Learning?**
+
+The model's training adopted a supervised learning approach, as the dataset included explicit labels for each image. 
+
+----------------------
+
+### 🧮 IV. Algorithm Used
+#### Neural Networks 
+- also known as Artificial Neural Networks (ANNs), are a class of algorithms inspired by the structure and functioning of the human brain. It consists of interconnected nodes organized into layers. These layers typically include an input layer, one or more hidden layers, and an output layer. Each connection between nodes has an associated weight, and nodes within a layer may have activation functions.
+##
+**Why Neural Networks?**
 
 ----------------------
 
